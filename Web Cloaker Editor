@@ -4,7 +4,7 @@ javascript: function gcloak() {
     link.rel = 'shortcut icon';
     link.href = 'https://login.i-ready.com/favicon.ico';
    
-    //To change icon of tab type in website name +"/favicon.ico" at the end of all links.
+    //To change icon of tab type in website name +"/favicon.ico" at the end of all links. Example "https://youtube.com/favicon.ico"
    
     document.title = 'Math To Do, i-Ready';
 
