@@ -1,11 +1,10 @@
-# Website-Cloaker
-Easy Interchangeable Website Cloaker
 # To Edit Code, Follow These Steps
 
+# Go to the Website"[Playcode.io](Playcode.i)"
 ## How to Change Tab Icon
-### Look At The Code, Find The Line
- #### link.href = 'https://login.i-ready.com/favicon.ico';
-
+### Copy code from Github Page
+### Insert Code, Look At The Code, Find The Line
+#### link.href = 'https://login.i-ready.com/favicon.ico';
 ### After, find any link you want to change the icon to and insert it inside of the parenthesis. Also at the end add "/favicon.ico"
 
 ## How to Change Tab Name
